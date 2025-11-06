@@ -1,2 +1,2 @@
 # PPJ_HM
-I'll collect HM from my java lessons here
+I'll store HM from my java lessons here
